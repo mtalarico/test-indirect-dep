@@ -1,5 +1,5 @@
 [project]
-dependencies = ["apple @ https://github.com/mtalarico/test-no-deps"]
+dependencies = ["apple @ git+https://github.com/mtalarico/test-no-deps"]
 name = "banana"
 version = "0.1.0"
 description = "b as in banana"
