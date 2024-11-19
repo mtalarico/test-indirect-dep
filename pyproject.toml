@@ -5,6 +5,6 @@ dependencies = [
 ]
 name = "carrot"
 version = "0.1.0"
-description = "a as in apple"
+description = "c as in carrot"
 readme = "README.md"
 requires-python = ">=3.10"
