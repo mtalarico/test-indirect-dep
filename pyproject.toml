@@ -1,8 +1,5 @@
 [project]
-dependencies = [
-    "apple @ git+https://github.com/mtalarico/test-no-deps",
-    "banana @ git+https://github.com/mtalarico/test-direct-dep",
-]
+dependencies = ["banana @ git+https://github.com/mtalarico/test-direct-dep"]
 name = "carrot"
 version = "0.1.0"
 description = "c as in carrot"
