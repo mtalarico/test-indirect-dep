@@ -1,7 +1,7 @@
 [project]
 dependencies = [
-    "apple @ https://github.com/mtalarico/test-no-deps",
-    "banana @ https://github.com/mtalarico/test-direct-dep",
+    "apple @ git+https://github.com/mtalarico/test-no-deps",
+    "banana @ git+https://github.com/mtalarico/test-direct-dep",
 ]
 name = "carrot"
 version = "0.1.0"
