@@ -1,10 +1,7 @@
 [project]
-dependencies = [
-    "apple @ git+https://github.com/mtalarico/test-no-deps",
-    "banana @ git+https://github.com/mtalarico/test-direct-dep",
-]
-name = "carrot"
+dependencies = ["apple @ git+https://github.com/mtalarico/test-no-deps"]
+name = "banana"
 version = "0.1.0"
-description = "c as in carrot"
+description = "b as in banana"
 readme = "README.md"
 requires-python = ">=3.10"
