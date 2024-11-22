@@ -1,0 +1,7 @@
+[project]
+dependencies = ["apple @ git+https://github.com/mtalarico/test-no-deps"]
+name = "banana"
+version = "0.1.0"
+description = "b as in banana"
+readme = "README.md"
+requires-python = ">=3.10"
